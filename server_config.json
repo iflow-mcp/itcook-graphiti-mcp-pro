@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"graphiti-agent-memory\":{\"command\":\"uvx\",\"args\":[\"--from\",\"iflow-mcp_itcook-mcp-server\",\"graphiti-mcp\",\"--stdio\"]}}}"}
