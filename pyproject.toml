@@ -7,7 +7,7 @@ packages = ["main.py", "graphiti_pro_core", "utils", "manager", "config", "refer
 
 [project]
 name = "iflow-mcp_itcook-mcp-server"
-version = "0.4.0"
+version = "0.4.1"
 description = "Graphiti MCP Server"
 readme = "README.md"
 requires-python = ">=3.10,<4"
